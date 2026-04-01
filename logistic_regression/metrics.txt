@@ -1,0 +1,7 @@
+Logistic Regression Results
+---------------------------
+Accuracy: 0.787
+Precision (Churn): 0.62
+Recall (Churn): 0.52
+F1-score (Churn): 0.56
+ROC-AUC: 0.83
